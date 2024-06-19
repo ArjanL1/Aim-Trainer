@@ -1,6 +1,6 @@
-# Aimtrainer
+# Aim Trainer
 
-Welcome to **Aimtrainer**, the ultimate tool for enhancing your aiming skills. Whether you're a beginner or a seasoned pro, Aimtrainer offers customizable difficulty levels and timer settings to help you improve your accuracy and precision.
+Welcome to **Aim Trainer**, the ultimate tool for enhancing your aiming skills. Whether you're a beginner or a seasoned pro, Aimtrainer offers customizable difficulty levels and timer settings to help you improve your accuracy and precision.
 
 ## Key Features
 
